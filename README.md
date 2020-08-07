@@ -1,4 +1,4 @@
-![](https://i.gifer.com/6os.gif| width=100) 
+![alt-text](https://i.gifer.com/6os.gif) 
 
 <!--
 **evelyne250/evelyne250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
